@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "foam_grids"
+name = "grids_tutorial"
 version = "0.0.1"
 description = ""
 authors = ["MichielsenM <mathias.michielsen@hotmail.com>"]
